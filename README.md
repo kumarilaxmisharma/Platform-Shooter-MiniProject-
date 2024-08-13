@@ -22,6 +22,13 @@ The Platform Shooter Mini-Project is a 2D side-scrolling game built with Pygame.
 - Press the "spacebar" to shoot.
 - Survive as long as possible while defeating enemies.
 
+## Team 
+- Kumari Laxmi Sharma 
+- Than Soputhearith 
+- Chan Reach 
+- Seng Silmeta 
+- Pho SreyPich 
+
 ## Reference 
 https://github.com/clear-code-projects/5games
 
